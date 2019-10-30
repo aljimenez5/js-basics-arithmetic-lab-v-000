@@ -8,3 +8,5 @@ let multiply = var1 * var2
 let random = Math.random()
 
 let mod = 28 % 6
+
+let max = Number.max()
