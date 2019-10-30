@@ -9,4 +9,4 @@ let random = Math.random()
 
 let mod = 28 % 6
 
-let max = Math.max()
+let max = Math.max(2, 8, 15, 20)
